@@ -1,0 +1,12 @@
+⚙️ Requirements
+Software
+• 	Python 3.8+
+• 	Mozilla Firefox browser
+• 	Geckodriver (compatible with your Firefox version)
+Python Libraries
+This project uses the following libraries:
+• 	gradio → to build the interactive web interface
+• 	selenium → to automate browser actions and scrape data
+• 	pandas → to structure scraped data into tables
+• 	time → to manage delays between actions
+• 	webdriver (selenium.webdriver) → Firefox driver, service, options, keys for automation

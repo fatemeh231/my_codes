@@ -1,0 +1,4 @@
+Prerequisites
+
+PostgreSQL installed and running
+Python 3.x installed

@@ -1,0 +1,13 @@
+Software
+• 	Python 3.8 or higher
+• 	Mozilla Firefox browser
+• 	Geckodriver (must match your Firefox version)
+Python Libraries
+The script uses the following libraries:
+• 	selenium → for browser automation
+• 	webdriver-manager (optional, if you prefer automatic driver management)
+• 	bs4 (BeautifulSoup4) → for parsing HTML content
+• 	pandas → for creating and exporting structured data
+• 	openpyxl → for writing Excel files ()
+• 	re (Regular Expressions) → for extracting review counts from text
+• 	time → for adding delays between action

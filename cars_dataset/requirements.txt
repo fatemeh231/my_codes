@@ -1,0 +1,12 @@
+Requirements
+Software
+• 	Python 3.8 or higher
+• 	Any IDE or notebook environment (VS Code, Jupyter, PyCharm, etc.)
+• 	The dataset file: 
+Python Libraries
+This project uses the following libraries:
+• 	numpy → numerical computations
+• 	pandas → data cleaning & analysis
+• 	matplotlib → data visualization
+• 	matplotlib.ticker (FuncFormatter) → formatting plot axes
+• 	re (Regular Expressions) → extracting numbers from messy string

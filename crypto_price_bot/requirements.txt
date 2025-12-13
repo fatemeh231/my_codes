@@ -1,0 +1,7 @@
+⚙️ Requirements
+Software
+• 	Python 3.8+
+• 	Telegram account & bot token (from BotFather)
+Python Libraries
+• 	telebot (pyTelegramBotAPI) → to interact with Telegram
+• 	requests → to fetch live prices from Binance

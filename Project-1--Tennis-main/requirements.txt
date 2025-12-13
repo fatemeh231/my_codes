@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+pyarrow
+glob (built-in module)
+os (built-in module)
+re (built-in module)
