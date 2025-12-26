@@ -1,0 +1,15 @@
+# requirements.txt (with explanations)
+
+customtkinter        # Modern UI framework for building the app interface
+pygame               # Audio playback engine (play, pause, seek)
+pillow               # Image handling (album art, resizing)
+mutagen              # Extract MP3 metadata + embedded album art
+psycopg2             # PostgreSQL database connector
+numpy                # Numerical operations for ML embeddings
+librosa              # Audio feature extraction (MFCCs)
+scikit-learn         # KMeans clustering + similarity calculations
+pycaw                # Windows system audio control (volume)
+tkinter              # Base GUI framework used by CustomTkinter
+json                 # Theme loading + configuration parsing
+os                   # File system operations
+io                   # Handling byte streams for album art
